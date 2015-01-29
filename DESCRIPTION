@@ -1,9 +1,9 @@
 Package: LazyABC
 Type: Package
-Title: What the package does (short line)
+Title: Lazy Approximate Bayesian Computation
 Version: 1.0
 Date: 2015-01-29
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Tom Jin
+Maintainer: Tom Jin <sjin@stats.ox.ac.uk>
+Description: Package to accompany an OxWaSP report on Bayesian Inference.
+License: MIT
